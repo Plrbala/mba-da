@@ -1,0 +1,13 @@
+What is Total Enrolled (unique headcount) today?
+
+How many are Present and Absent today? What is the Attendance % (Average)?
+
+Which Team has the highest absence or presence (Team-wise stacked bar)?
+
+Which Senior Manager has the best attendance (Manager-wise bar)?
+
+Gender split of enrolled employees (Gender-wise pie).
+
+Distribution by JobLevel (treemap to see counts per level).
+
+Filter by TrainingModel, SeniorManager, Team, JobLevel to slice insights.
