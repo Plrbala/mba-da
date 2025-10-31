@@ -1,0 +1,9 @@
+let
+mindate= List.Min(SalesData[OrderDate]),
+maxdate= Date.From(DateTime.LocalNow()),
+datelist={Number.From(mindate)..Number.From(maxdate)},
+calender=Table.FromList(datelist,Splitter.SplitByNothing(),{"Date"})
+
+
+in 
+calender
